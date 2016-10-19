@@ -278,7 +278,7 @@ DIALOG_WEB_INFO_POR="Por raz&#245;es de seguran&#231;a, digite a senha para aces
 DIALOG_WEB_INPUT_POR="Digite sua senha WPA"
 DIALOG_WEB_SUBMIT_POR="Enviar"
 DIALOG_WEB_ERROR_POR="<b><font Color=\"red\" size=\"3\">Erro</font>:</b> A senha digitada <b>N&#195;O</b> est&#225; correto </b>!"
-DIALOG_WEB_OK_POR="Sua conex&#227;o &#233; restaurada em breve."
+DIALOG_WEB_OK_POR="Sua conex&#227;o ser&#225; restaurada em breve."
 DIALOG_WEB_BACK_POR="Voltar"
 DIALOG_WEB_LENGHT_MIN_POR="A senha deve ter mais de 7 caracteres"
 DIALOG_WEB_LENGHT_MAX_POR="A chave deve ser menor que 64 caracteres"
